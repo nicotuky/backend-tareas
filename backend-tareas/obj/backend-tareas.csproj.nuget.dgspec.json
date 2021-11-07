@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Damii\\Desktop\\backend-tareas\\backend-tareas\\backend-tareas\\backend-tareas.csproj": {}
+    "C:\\Users\\Silvana\\Desktop\\backend-tareas\\backend\\backend-tareas\\backend-tareas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Damii\\Desktop\\backend-tareas\\backend-tareas\\backend-tareas\\backend-tareas.csproj": {
+    "C:\\Users\\Silvana\\Desktop\\backend-tareas\\backend\\backend-tareas\\backend-tareas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Damii\\Desktop\\backend-tareas\\backend-tareas\\backend-tareas\\backend-tareas.csproj",
+        "projectUniqueName": "C:\\Users\\Silvana\\Desktop\\backend-tareas\\backend\\backend-tareas\\backend-tareas.csproj",
         "projectName": "backend-tareas",
-        "projectPath": "C:\\Users\\Damii\\Desktop\\backend-tareas\\backend-tareas\\backend-tareas\\backend-tareas.csproj",
-        "packagesPath": "C:\\Users\\Damii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Damii\\Desktop\\backend-tareas\\backend-tareas\\backend-tareas\\obj\\",
+        "projectPath": "C:\\Users\\Silvana\\Desktop\\backend-tareas\\backend\\backend-tareas\\backend-tareas.csproj",
+        "packagesPath": "C:\\Users\\Silvana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Silvana\\Desktop\\backend-tareas\\backend\\backend-tareas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Damii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Silvana\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
